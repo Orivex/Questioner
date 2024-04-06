@@ -11,6 +11,8 @@ Change directory (cd) to 'Questioner\workspace\frontend' and execute the command
 
 The packages for those commands have to be installed before using them.
 
+Visit the website on: 'http://localhost:5173'
+
 Caution: 
 The app is insecure because no security was implemented (very loose login: Credentials are shown in the URL). But this shouldn't be a problem, as long as the servers run locally.
 One day I started this app, but didn't finish it, because I wanted to stick more with SpringBoot/Java. In two days I finished it quickly for fun. So, don't expect qualitative code or a crazy-innovative app! :)
