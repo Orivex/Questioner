@@ -2,8 +2,10 @@ An app created, using Golang (with mux and gorm) as the backend API, Svelte-Kit 
 
 
 Before using the app, please create a new database in MySQL called 'questionerdb'. The user and the password should both be 'root'. (I suggest using MySQL-Workbench)
+
 Launch backend:
 Change directory (cd) to 'Questioner\workspace\backend' and execute the command in the terminal 'go run .'
+
 Launch frontend:
 Change directory (cd) to 'Questioner\workspace\frontend' and execute the command in the terminal 'npm run dev'
 
