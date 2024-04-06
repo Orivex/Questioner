@@ -1,4 +1,4 @@
-An app created, using Golang (with mux and gorm) as the backend API, Svelte-Kit (consists of HTML and CSS) as the frontend and MySQL as the database.
+An app created using Golang (with mux and gorm) as the backend API, Svelte-Kit (consists of HTML, CSS and JS) as the frontend and MySQL as the database.
 
 
 Before using the app, please create a new database in MySQL called 'questionerdb'. The user and the password should both be 'root'. (I suggest using MySQL-Workbench)
